@@ -8,14 +8,12 @@ namespace Extention
 {
    static class pow
     {
-        public static int pow1(this int pow,int a)
+        public static int pow1(this int a)
         {
-            int a2;
-            for (int i = 0; i < pow; i++)
-            {
-              Console.WriteLine(Math.Sqrt(Math.Sqrt(a)));
-            }
-            return a;
+            int c = 0;
+            c=(int)Math.Cbrt(a);
+
+            return c;
         }
 
     }
