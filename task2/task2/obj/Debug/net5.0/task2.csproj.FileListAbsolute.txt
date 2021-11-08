@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\task2\task2\bin\Debug\net5.0\task2.exe
+C:\Users\ADMIN\source\repos\task2\task2\bin\Debug\net5.0\task2.deps.json
+C:\Users\ADMIN\source\repos\task2\task2\bin\Debug\net5.0\task2.runtimeconfig.json
+C:\Users\ADMIN\source\repos\task2\task2\bin\Debug\net5.0\task2.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\task2\task2\bin\Debug\net5.0\task2.dll
+C:\Users\ADMIN\source\repos\task2\task2\bin\Debug\net5.0\ref\task2.dll
+C:\Users\ADMIN\source\repos\task2\task2\bin\Debug\net5.0\task2.pdb
+C:\Users\ADMIN\source\repos\task2\task2\obj\Debug\net5.0\task2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\task2\task2\obj\Debug\net5.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\task2\task2\obj\Debug\net5.0\task2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\task2\task2\obj\Debug\net5.0\task2.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\task2\task2\obj\Debug\net5.0\task2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\task2\task2\obj\Debug\net5.0\task2.dll
+C:\Users\ADMIN\source\repos\task2\task2\obj\Debug\net5.0\ref\task2.dll
+C:\Users\ADMIN\source\repos\task2\task2\obj\Debug\net5.0\task2.pdb
+C:\Users\ADMIN\source\repos\task2\task2\obj\Debug\net5.0\task2.genruntimeconfig.cache
